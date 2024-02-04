@@ -5,7 +5,6 @@ This project employs image processing techniques and machine learning for the cl
 ## Key Features
 
 1. **Data Processing and Exploration:**
-   - Google Colab is utilized to access and preprocess skin cancer images stored on Google Drive.
    - Image features, including color statistics, gradients, and contour properties, are extracted for analysis.
 
 2. **Machine Learning Model:**
